@@ -2,6 +2,9 @@
   "id": "pyrosoulsteam-cards-deck",
   "title": "Pyrosoulsteam - Cards Deck",
   "version": "1.0.0",
+  "url": "https://github.com/ErDannCode/pyrosoulsteam-cards-deck",
+  "manifest": "https://raw.githubusercontent.com/ErDannCode/pyrosoulsteam-cards-deck/refs/heads/main/module.json",
+  "download": "https://github.com/ErDannCode/pyrosoulsteam-cards-deck/archive/refs/heads/main.zip",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
