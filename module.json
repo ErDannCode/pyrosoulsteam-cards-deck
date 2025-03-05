@@ -1,0 +1,29 @@
+{
+  "id": "pyrosoulsteam-cards-deck",
+  "title": "Pyrosoulsteam - Cards Deck",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Pyrosoulsteam",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "cartas-del-destino",
+      "label": "Cartas del Destino",
+      "path": "packs/cartas-del-destino",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
