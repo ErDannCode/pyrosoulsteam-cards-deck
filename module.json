@@ -18,15 +18,14 @@
   "packs": [
     {
       "name": "cartas-del-destino",
-      "label": "Cartas del Destino",
+      "label": "Pyro - Cartas del Destino",
       "path": "packs/cartas-del-destino",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     }
   ]
 }
